@@ -1,11 +1,8 @@
 # Jonathan Aerts — Senior Cloud Platform Architect
 
-Azure Landing Zone · Terraform · Multi-Cloud · Platform Engineering
+`Azure Landing Zone · Terraform · Multi-Cloud · Platform Engineering`
 
-I design and govern enterprise-scale Azure foundations: hub-and-spoke networking,
-policy-as-code, GitOps-driven IaC, and observability at scale. Built an enterprise
-Azure landing zone solo from scratch for a regulated financial workload (26 subscriptions,
-35+ engineers onboarded).
+I design and govern enterprise-scale Azure foundations: hub-and-spoke networking, policy-as-code, GitOps-driven IaC, and observability at scale. Built an enterprise Azure landing zone solo from scratch for a regulated financial workload — 26 subscriptions, 35+ engineers onboarded.
 
 🌐 [jonathan-aerts.dev](https://jonathan-aerts.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/jaerts085)
 
@@ -27,6 +24,12 @@ Azure landing zone solo from scratch for a regulated financial workload (26 subs
 - **Networking** — hub-and-spoke, private endpoints, secure connectivity
 - **Platform Engineering** — self-service infra, golden paths, developer enablement
 - **Observability** — AMBA-based monitoring, alerting at scale
+
+### What I'm working on
+
+- Deepening multi-cloud — AWS Landing Zone patterns (Control Tower, SCPs)
+- Writing up hard-won lessons on [jonathan-aerts.dev/blog](https://jonathan-aerts.dev/blog)
+- Certs in progress: AZ-305 · AWS SAA
 
 ---
 
